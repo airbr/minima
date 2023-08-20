@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About The Dynamo
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![A US Patent diagram showing a section drawing of a Dynamo patented in 1883](/assets/images/DynamoElectricMachinesEndViewPartlySection_USP284110.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+> **In 2014 I commissioned an artist in Dunedin, New Zealand to create a reproduction of this Patent drawing of a Dynamo from 1883. I was obsessed with it as a symbol of technology. I still am.** 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+> **I brought it with me in a shipping container when my family moved back to the USA. However, the painting is in a storage container in Atlanta and I am in Bellingham the city of 'subdued excitement'. It is unwieldy and large and would be extravagant to ship again across a coast but it lives in my head, remembering those days of beginning in technology, now obsolete or left behind for now.**
 
-
-[jekyll-organization]: https://github.com/jekyll
+![A hallway picture of a giant reproduction of the Dynamo patent section diagram](/assets/images/art.png)
