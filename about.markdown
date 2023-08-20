@@ -11,3 +11,5 @@ In 2014 I commissioned an artist in Dunedin, New Zealand to create a reproductio
 I brought it with me in a shipping container when my family moved back to the USA. However, the painting is in a storage container in Atlanta and I am in Bellingham the city of 'subdued excitement'. It is unwieldy and large and would be extravagant to ship again across a coast but it lives in my head, remembering those days of beginning in technology, now obsolete or left behind for now.
 
 ![A hallway picture of a giant reproduction of the Dynamo patent section diagram](/assets/images/art.png)
+
+Inspiration!
